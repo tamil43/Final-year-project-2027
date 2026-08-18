@@ -9,7 +9,15 @@ Provides high-contrast, professional engineering charts for:
   - Multi-Month Trajectory & Uncertainty Envelope
 """
 
+import sys
+from pathlib import Path
 from typing import Dict, Any, List, Optional
+
+# Ensure webapp directory is in sys.path
+WEBAPP_DIR = Path(__file__).resolve().parent.parent
+if str(WEBAPP_DIR) not in sys.path:
+    sys.path.insert(0, str(WEBAPP_DIR))
+
 import numpy as np
 import plotly.graph_objects as go
 from scipy.stats import norm
@@ -56,7 +64,6 @@ def create_forecast_comparison_chart(
         COLOR_SHORTAGE if predicted_gap > 0 else COLOR_SURPLUS,
     ]
 
-    # Calculate error bar margins
     ci_key = "pi_95" if selected_ci == "95%" else ("pi_90" if selected_ci == "90%" else "pi_99")
     
     error_y_vals = [0.0, 0.0, 0.0]
@@ -137,7 +144,6 @@ def create_prediction_interval_chart(
 
     fig = go.Figure()
 
-    # Tier styling (Highlight selected tier with higher contrast)
     tiers = [
         ("99% Interval", pi_99, "#A855F7", 9 if selected_ci == "99%" else 4, 1.0 if selected_ci == "99%" else 0.45),
         ("95% Interval", pi_95, theme_color, 11 if selected_ci == "95%" else 5, 1.0 if selected_ci == "95%" else 0.5),
@@ -164,7 +170,6 @@ def create_prediction_interval_chart(
             )
         )
 
-    # Point Forecast Markers across all tiers
     for label, _, _, _, _ in tiers:
         fig.add_trace(
             go.Scatter(
@@ -178,7 +183,6 @@ def create_prediction_interval_chart(
             )
         )
 
-    # Vertical reference line at point forecast
     fig.add_vline(
         x=point,
         line_width=1.5,
@@ -242,7 +246,6 @@ def create_gap_distribution_chart(
 
     fig = go.Figure()
 
-    # Full PDF curve
     fig.add_trace(
         go.Scatter(
             x=x,
@@ -254,7 +257,6 @@ def create_gap_distribution_chart(
         )
     )
 
-    # Shaded confidence region
     fig.add_trace(
         go.Scatter(
             x=np.concatenate([x_ci, x_ci[::-1]]),
@@ -267,7 +269,6 @@ def create_gap_distribution_chart(
         )
     )
 
-    # Point Gap vertical line
     fig.add_vline(
         x=predicted_gap,
         line_width=2,
@@ -277,7 +278,6 @@ def create_gap_distribution_chart(
         annotation_font=dict(color=COLOR_POINT, size=11, family=FONT_FAMILY),
     )
 
-    # 0 MU Zero-Gap Balance Reference Line
     fig.add_vline(
         x=0,
         line_width=1.5,
@@ -288,7 +288,6 @@ def create_gap_distribution_chart(
         annotation_font=dict(color="#10B981", size=10, family=FONT_FAMILY),
     )
 
-    # 3000 MU & 4500 MU Risk Threshold Reference Lines
     fig.add_vline(
         x=3000.0,
         line_width=1,

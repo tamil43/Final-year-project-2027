@@ -9,7 +9,10 @@ import os
 import joblib
 import numpy as np
 import pandas as pd
-from tensorflow.keras.models import load_model
+try:
+    from tensorflow.keras.models import load_model
+except (ImportError, ModuleNotFoundError):
+    from keras.models import load_model
 
 import config
 from services.prediction_intervals import get_prediction_intervals, calculate_residual_sigma
