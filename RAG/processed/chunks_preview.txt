@@ -1,0 +1,873 @@
+==========================================================================================
+RAG KNOWLEDGE BASE — SEMANTIC CHUNKS READABLE PREVIEW SAMPLE
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p1_c1
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [1, 2] (Primary: 1)
+METRICS    : 830 tokens | 1929 chars
+------------------------------------------------------------------------------------------
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA I Ministry of Power Government of India www.powermin.nic.in Ministry of Power Government of India www.powermin.nic.in 2025-26 ANNUAL REPORT ANNUAL REPORTMINISTRY OF POWER
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIAII 0.00 669966..7755 29.22 133.15
+
+Kerala NLC Bihar DVC Jharkhand West Bengal Odisha Arunachal Pradesh Assam Sikkim Mizoram Nagaland Manipur Tripura Lakshadweep Meghalaya T amil Nadu Puducherry Uttarakhand Uttar Pradesh Chandigarh Goa Gujarat Madhya Pradesh Chhattishgarh Maharashtra Dadar & Nagar Haveli and Daman & Diu Karnataka Andhra Pradesh Punjab Delhi Haryana Rajasthan Sri Lanka Andaman & Nicobar
+
+1074.03 5656.91 153.38 474.37 77335588..6699 22448800..1133 99221199..9977 123.04 22991122..1133 Himachal Pradesh 33770066..8877 42.22 11335577..1199 55225500..9966 22334455..8888 999.21 95.13 332266..6600 33776666..8822 993300..3366 2244117744..8899 1034.89 40593.49 6666773333..6633 229933..4400 1122667766..8855 135.57 22007755..8822 1155118811..6644 3236.76 1155446644..5599 491.98 99664444..8866 2288883388..1199 3835.44 8364.00 229.09 22330077..5500 1144773366..0033 5599779966..7733 4422111188..8877 1144772277..3355 2143.77 806.74 370.45 66118833..6677 3366774411..2266 22332233..8899 1387.24 47.51 11222211..2288 44997799..9911 104.31 59.86 10.41 7788..8855 225533..4422 33.00 551111..9966 41.68 7733..4433 663300..0077 33335544..7744 2277883399..0022 1068.66 2277226655..5544 5599552277..9966 33335533..6600 1144224488..5566 127.27 1111554455..5588 2299227755..0011 33663311..6600 1100881144..9955 698.00 2222229944..4433 3377443388..9988 22000088..1155 33006699..5566 362.00 22338822..3344 77882222..0055 2203.20 1166113377..7700 1448.00 2244995599..1133 4444774488..0033 0.00 166.00 0.00 0.00 166.00 0.00 228855..1100 86.00 7744..4411 444455..5511 0.00 92.71 0.00 3366..9977 112299..6688 0.00 26.83 0.00 66..5577 3333..4400 ..
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p2_c2
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [2, 3, 4, 5] (Primary: 2)
+METRICS    : 635 tokens | 1427 chars
+------------------------------------------------------------------------------------------
+110011..3344 9911..5511 0.00 227700..0011 6699..6699 110066..0033 0.00 36.01 221111..7733 92.42 116644..6688 0.00 2222..9977 228800..0077 74.37 554422..9944 0.00 5511..0033 666688..3344 442233..1100 116611..2299 0.00 7733..1111 \\ 665577..5500 557788..5599 83.87 0.00 881188..5511 554488..6600 11114444..4444 0.00 441122..0022 22110055..0066 664433..2277 8899..2211 0.00 6622..6677 779955..1155 2179.23 55997722..4477 0.00 996677..8877 99111199..5577 221.26 0.00 0.00 33225588..2288 1483.30 777700..9988 1100776688..6622 176.98 33442211..2288 0.00 225599..9966 33885588..2222 72.88 77997744..7799 0.00 664466..2266 88669933..9922 NUCLEAR RES TOTAL
+
+CENTRAL UNALLOCATED T elangana 0.00 2479.93 1122889988..8800 148.73 55449911..1144 2211001188..6600 14735.27 33003377..0022 88551144..3344 1230.03
+
+All India Capacity: 513729.69 MW ALL I IINDIA
+
+50914.66 HYDRO
+
+246941.62 THERMAL
+
+8780.00 NUCLEAR
+
+1133.85 HYDRO
+
+9393.87 THERMAL 0.00 11757.75 Jammu & Kashmir and Ladakh MAP OF INDIA SHOWING INSTALLED GENERATING CAPACITY STATEWISE/MODEWISE Including allocated shares in Joint and Central Sector (As on 31.12.2025, Figures in MW) [Map not as per scale] 3660066..7722 2266558800..4422 77.16
+
+207093.41 RES
+
+513729.69 TOTAL 144.67 156.05 885599..1122
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA III
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIAIV
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA 1
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p2_c3
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [2, 3, 4, 5, 6, 7] (Primary: 2)
+METRICS    : 893 tokens | 3124 chars
+------------------------------------------------------------------------------------------
+207093.41 RES
+
+513729.69 TOTAL 144.67 156.05 885599..1122
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA III
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIAIV
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA 1
+
+CONTENTS Sl. No. CHAPTER P AGE No. 1. Performance Highlights 3 2. Organisation Set-up 7 3. Capacity 14 4. Generation & Power Supply Position 20 5. Thermal Power 22 6. Hydro Power 25 7. Transmission Sector 30 8. Distribution 39 9. Power Sector Reforms 44 10. Energy Conservation 48 11. International Cooperation 53 12. Power Development in North East Region 64 PUBLIC SECTOR UNDERTAKINGS 13. NTPC Ltd. 71 14. Power Grid Corporation of India (POWER GRID) 111 15. Power Finance Corporation (PFC) Ltd. 123 16. REC Ltd. 128 17. NHPC Ltd. 134 18. North Eastern Electric Power Corporation (NEEPCO) 141 19. Grid Controller of India Limited 145 JOINT VENTURE CORPORATIONS 20. SJVN Ltd. 150 21. THDC India Ltd. 156 STATUTORY BODIES 22. Central Electricity Authority (CEA) 162 23. Central Electricity Regulatory Commission (CERC)/ JERC 167 24. Appellate Tribunal for Electricity (APTEL) 175 25. Damodar Valley Corporation (DVC) 176 26. Bhakra Beas Management Board (BBMB) 186 27. Bureau of Energy Efficiency (BEE) 190 AUTONOMOUS BODIES 28. Central Power Research Institute (CPRI) 192 29. National Power Training Institute (NPTI) 198 OTHER IMPORTANT ACTIVITIES 30. Public Grievances 202 31. Right to Information Act, 2005 203
+
+32.1 Implementation of Official Language Policy 204
+
+32.2 Vigilance Activities/Disciplinary Cases 206
+
+32.3 Activities Relating to Women Employees 207
+
+32.4 Persons with Disabilities (PwDs) 208
+
+32.5 Recreational Activities 209
+
+32.6 Welfare of SCs/STs/OBCs/Minorities. 211 33. E-Governance/IT Initiatives 212 34. Region-wise Installed Capacity 213 35. Office of the Chief Controller of Accounts 222 36. Audit Observations 227
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA2
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA 3 PERFORMANCE HIGHLIGHTS 1.
+
+Robust Transformation of the Power Sector During the current year 2025-26 (Upto December 2025), peak shortage was 0.1% and the energy shortage was 0.03% as compared to 0.001% and 0.1% respectively during the same period last year.
+
+The actual generation from all sources during the year 2025-26 (Upto December 2025) was 1384.859 BU as compared to generation of 1379.445 BU during the same period last year, representing a growth of 0.39%.
+
+2.
+
+Transmission Augmentation India has reached a landmark achievement in the transmission sector by becoming the world's largest synchronous national grid strengthening the nation's energy infrastructure.
+
+The national power transmission a significant advancement in network now exceeds 5 lakh circuit kilometres (ckm) of transmission lines (220 kV and above) and includes 1,407 GV A of transformation capacity (220 kV and above), placing India among the most expansive and resilient grids globally.
+
+Since 2014, the country has added 2,08,743 ckm of transmission lines (220 kV and above) and 8,76,445 MV A of transformation capacity (220 kV and above).
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p7_c4
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [7] (Primary: 7)
+METRICS    : 767 tokens | 3405 chars
+------------------------------------------------------------------------------------------
+The national power transmission a significant advancement in network now exceeds 5 lakh circuit kilometres (ckm) of transmission lines (220 kV and above) and includes 1,407 GV A of transformation capacity (220 kV and above), placing India among the most expansive and resilient grids globally.
+
+Since 2014, the country has added 2,08,743 ckm of transmission lines (220 kV and above) and 8,76,445 MV A of transformation capacity (220 kV and above).
+
+The inter- regional power transfer capacity has grown to 1,20,340 MW , enabling seamless electricity flow across regions and effectively realizing the vision of "One Nation - One Grid-One Frequency." 3.
+
+Promoting Use of Biomass in Thermal Power Plants Ministry of Power (MoP) established the SAMARTH (Sustainable Agrarian Mission on use of Agri Residue in Thermal Power Plant) Mission in July, 2021 to combat stubble burning and mitigate air pollution in India, with a primary focus on co-firing of biomass pellets in Thermal Power Plants (TPPs).
+
+As on 31.12.2025, 72 TPPs including 11 TPPs of National Capital Region (NCR) have started co-firing of biomass pellets and cumulatively about 40.20 Lakh Metric Tons (LMT) have been co-fired therein across the country.
+
+During the calendar year 2025 (from Jan-Dec 25), all India around 24.76 LMT biomass pellets have been co-fired which resulted in an increase of 108% as compared to the corresponding period of last year.
+
+Furthermore, to strengthen the policy framework, the Ministry of Power (MoP) issued "Comprehensive Policy for Co-firing of Biomass Pellets (including Torrefied Charcoal made from Municipal Solid Waste (MSW)] in Coal-based Thermal Power Plants" on 7th November 2025, superseding all previous policies, for utilising the surplus biomass along with agricultural residues and left over MSW in reducing overall Greenhouse Gases (GHGs) emissions and also to boost Gol's objective of "Swachh Bharat Mission".
+
+4.
+
+Coal Stock Position The coal stock at power plants has increased from about
+
+45.2 Million Tonnes (MT) as on 31.12.2024 (sufficient for an average of 16 days at requirement of 85% Plant Load Factor (PLF) to 53.5 MT as on 31.12.2025 (sufficient for an average of 17 days at requirement of 85% PLF). Such coal stock has been maintained while reducing the receipt of imported coal for blending purpose from 18.8 MT during January-December, 2024 to 7.5 MT during January-December, 2025 (a decline of about 60%). Revised SHAKTI Policy 2025 The Government of India on 07.05.2025, approved the Revised SHAKTI Policy for Coal Allocation to the Power Sector. Building upon the 2017 SHAKTI framework that replaced nomination-based coal allocation with transparent auctions and bidding, the revised policy consolidates multiple linkage provisions into two simplified windows. This restructuring aims to promote ease of doing business, enhance competition and efficiency contributing to affordable power generation. The revised policy introduces greater flexibility, wider eligibility, and better accessibility to coal, ensuring linkage to all power producers. The reforms also allow the use of linkage coal for Un-requisitioned Surplus (URS) power generation and sale in power markets, improving utilization, deepening market liquidity and help substitute imported coal. For grant of fresh coal linkages to Thermal Power Plants of Central Sector/State Sector/ Independent Power
+
+CHAPTER 01
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p7_c5
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [7, 8] (Primary: 7)
+METRICS    : 898 tokens | 3815 chars
+------------------------------------------------------------------------------------------
+CHAPTER 01
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA4 Producers (IPPs), following two windows have been approved under the Revised SHAKTI policy: (i) Coal Linkage to Central Gencos/States at Notified price: Window-I (ii) Coal Linkage to all Gencos at a Premium above Notified price: Window-II. The Revised SHAKTI Policy would maximize domestic coal utilization, ensure seamless thermal capacity addition, reduce dependence for coal on global markets, reinforce nation's energy independence aligning with Government's push for Energy Security for All. Under Window-I of the Revised SHAKTI Policy, 2025, SLC (LT) earmarked 55 Million Tonnes Per Annum (MTPA) coal linkages for 11,260 MW to six States, based on the recommendation of MoP (till Dec'2025). 5. Key Achievements in Hydro Power Sector Investment Approval for Construction of Tato-II HEP (700 MW) in Arunachal Pradesh The Government of India on 12.08.2025 has granted investment approval of Rs. 8146.21 Crore for construction of Tato-II HEP (700 MW) in Shi Y omi District of Arunachal Pradesh. This Project will be implemented through a Joint Venture Company between North Eastern Electric Power Corporation Ltd. (NEEPCO) and the Government of Arunachal Pradesh. Upon commissioning, this project would generate about 2738.06 MU per year. The state would be benefitted from 12% free power and another 1% towards Local Area Development Fund (LADF) besides significant infrastructure improvement and socio-economic development of the region. 6. Key Achivements in Distribution
+
+• The Aggregate Technical and Commercial (AT&C) Losses have reduced from 21.9% in FY2021 to 15.04% in FY2025 and the Average Cost of Supply and the Average Revenue Realized (ACS-ARR) gap has reduced from Rs. 0.69/kWh in FY2021 to Rs. 0.06/kWh in FY2025 at pan India level. The reduction in losses would help in improving the services offered by the distribution utilities.
+
+• Power distribution utilities recorded a positive Profit After Tax (PAT) of Rs 2,701 crore in year FY2024-25, marking a history for the sector. The distribution utilities as a whole have been reporting PAT losses for past several years since unbundling and corporatization of SEBs. The positive PAT in FY2024-25 compares to a loss of Rs 25,553 crore in year FY 2023- 24. This foster investor confidence and attracts private investment.
+
+• Till Dec 25, 3.77 crore consumer meters, 12.56 lakh Distribution Transformer (DT) meters and
+
+1.58 lakh feeder meters have been installed under Revamped Distribution Sector Scheme (RDSS). Overall, 5.28 crore smart meters were installed till Dec 25 under various schemes across the country. Smart meter ensures accurate billing, eliminates manual metering errors, provides ease of convenience of recharge for consumers and allows them to track their consumption. Further, it improves collection efficiency of Distribution Companies (DISCOMs) while providing benefits like automatic energy accounting, improved load forecasting and facilitating an enabling ecosystem for energy transition.
+
+• As a result of effective implementation of the Electricity (Late Payment Surcharge and Related Matters) Rules, 2022, the legacy dues of distribution utilities of Rs. 1,39,947 Crore as on 03.06.2022, have come down to Rs. 5,747 Crore as in December, 2025 and are expected to be cleared by the end of June, 2026. 7. Achievements in Energy Conservation (i) Perform, Achieve and Trade (P AT) The PAT scheme has so far covered 1333 units across 13 energy intensive sectors nits across 7 sectors notified to from PAT cycle I to PAT cycle VIII. Out of which, 490 units across 7 sectors become obligated entities under Carbon Credit Trading Scheme in January 2026. This scheme has achieved annual energy savings of 27.07 Million Tonnes of Oil Equivalent (MTOE) and about
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p8_c6
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [8, 9] (Primary: 8)
+METRICS    : 889 tokens | 4141 chars
+------------------------------------------------------------------------------------------
+115.21 million ton of CO2 emissions have been avoided. PAT cycle VIII has been notified for the period 2023-
+
+24 to 2025-26. Under PAT cycle VIII, 138 Designated Consumers from sectors namely Aluminium, Cement, Chlor-Alkali, Iron & Steel, Pulp & Paper and Textile have been notified with a total energy saving target of
+
+0.3370 MTOE.
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA 5 (ii) Carbon Credit Trading Scheme To develop the carbon market, the regulatory framework for the Indian Carbon Market has been established under the Energy Conservation Amendment Act, 2022, where clause (w) of section 14 of the Energy Conservation Act, 2001 (52 of 2001) empowers the Central Government emment in consultation with the Bureau of Energy Efficiency (Bureau) to specify carbon credit trading scheme.
+
+On the above basis, the Central Government has notified the Carbon Credit Trading Scheme in June 2023.
+
+As of January 2026, the Greenhouse gas emission intensity reduction (GEI) targets for seven energy intensive sectors - Aluminium, Cement, Chlor-Alkali, Pulp & Paper, Petrochemicals, Petroleum refinery and textiles covering 490 obligated entities under compliance mechanism has been notified by the Central Government.
+
+(iii) Standard and Labelling (S&L) Programme As of January, 2026, the S&L program covers the star labeling for 41 appliances, out of which 18 appliances are under mandatory phase and remaining 23 appliances are under voluntary phase.
+
+The S&L program has led to electrical energy savings of 89.84 BU and also achieved a reduction of 63.78 MT of carbon dioxide emissions in Y ear 2023-24.
+
+The Bureau of Energy Efficiency (Appliance Labeling and Compliance) Regulations, 2026 have been notified to establish a comprehensive framework governing the display of essential information on labels and has come into force with effect from 1 January 2026.
+
+Check testing and market surveillance activities were carried out through State Designated Agencies during FY 2025-26 to ensure compliance with the S&L Programme.
+
+Till December 2025, a total of 4,032 brands and 27,129 models were registered under the S&L Programme.
+
+(iv) Assistance in Deploying Energy Efficient Technologies in Industries & Establishments (ADEETIE) While large industries are well supported through PAT and Carbon Market programs, the Ministry of Power has introduced a dedicated initiative for MSMEs: Assistance in Deploying Energy Efficient Technologies in Industrial Establishments (ADEETIE).
+
+The scheme was launched on 15 July 2025 to promote the adoption of energy-efficient technologies in MSMEs.
+
+8.
+
+Conference of Power Ministers of States & U Ts In 2025, Union Minister of Power Shri Manohar Lal chaired a series of five Regional Conferences of Power Ministers and senior energy officials from states and UTs across India, aimed at securing long-term regional energy security, enhancing financial sustainability of power utilities, and aligning the sector's growth with the "Viksit Bharat" vision of a developed India.
+
+The events unfolded regionally: North Eastern States including Sikkim in Gangtok on April 26; Western Region States and UTs in Mumbai on May 13; Southern Region in Bengaluru on May 23; Northern Region in Chandigarh on June 6; and Eastern Region in Patna on June 24.
+
+Core discussions across all conferences revolved around proactive Resource Adequacy (RA) planning out to 2030–35, urging states to secure timely capacity tieups, expand non-fossil fuel generation such as hydro, solar, nuclear, Pumped Storage Projects (PSP), and Battery Energy Storage Systems (BESS), while retaining fossil fuels for reliability amid rising peak demands.
+
+Critical focus was placed on revitalizing distribution companies (Discoms) through aggressive reduction of Aggregate Technical & Commercial (AT&C) losses and Average Cost of Supply-Average Revenue Realized (ACS-ARR) gaps, implementation of cost-reflective tariffs, prompt settlement of subsidies and government dues, and swift rollout of the Revamped Distribution Sector Scheme (RDSS) featuring pre-paid smart meters—especially in government establishments by August 2025.
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p9_c7
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [9, 10, 11] (Primary: 9)
+METRICS    : 865 tokens | 4150 chars
+------------------------------------------------------------------------------------------
+Critical focus was placed on revitalizing distribution companies (Discoms) through aggressive reduction of Aggregate Technical & Commercial (AT&C) losses and Average Cost of Supply-Average Revenue Realized (ACS-ARR) gaps, implementation of cost-reflective tariffs, prompt settlement of subsidies and government dues, and swift rollout of the Revamped Distribution Sector Scheme (RDSS) featuring pre-paid smart meters—especially in government establishments by August 2025.
+
+Transmission infrastructure upgrades were prioritized via modernizing intra-state systems (InSTS) using innovative financing like Tariff Based Competitive Bidding (TBCB), resolving Right of Way (RoW) and land acquisition hurdles, and exploring utility listing or corporatization for better governance and performance.
+
+States actively provided inputs and suggestions on these pressing power sector challenges throughout the deliberations.
+
+A Chintan Shivir for the Ministry of Power was held on 22-23 Jan, 2026 at Parwanoo, Himachal Pradesh to discuss various issues pertaining to the Ministry of Power.
+
+The event was attended by Union Power Ministry and CPSEs Officials, State Power / Energy Secretaries
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA6 and Heads of Power Utilities, regulators, power sector experts including associations and academicians from public and private sector. Discussions in the Chintan Shivir were held across six thematic sessions covering major policy and sectoral issues. Session 1 focused on the Draft Electricity Amendment Bill, 2026, with deliberations on ensuring financial viability, competitiveness and facilitating energy transition. Session 2 dealt with the Draft Electricity Policy, 2026, aiming to align the policy framework with the vision of Viksit Bharat 2047 and energy independence. Session 3 concentrated on accelerating nuclear power development, including the roadmap for achieving 100 GW of nuclear capacity by 2047 and required policy support. Session 4 addressed the viability of the distribution sector, emphasizing long-term sustainable reforms for DISCOMs. Session 5 discussed optimizing transmission systems, promoting distributed energy resources and energy storage, including challenges in achieving the target of 300 GWh storage capacity by 2030. Session 6 focused on reducing litigation in the power sector, with discussions on deregulation measures and strategies to minimize disputes and improve sector efficiency.
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA 7 ORGANISATIONAL SET-UP Shri Manohar Lal assumed charge as the Minister of Power with effect from the 11th June, 2024.
+
+Shri Shripad Naik assumed charge as the Minister of State for Power with effect from the 11th June, 2024.
+
+Shri Pankaj Agarwal assumed charge as Secretary in the Ministry of Power with effect from the 1st July, 2023.
+
+The Ministry has sanctioned strength of two Additional Secretaries, one Financial Adviser, four Joint Secretaries and one Economic Adviser.
+
+All posts except for one post of Joint Secretary are filled up.
+
+Shri Piyush Singh, Additional Secretary, oversees Thermal Power, NTPC ltd; Damodar Valley Corporation (DVC); Fuel Supply; Fuel Supply Agreements; ACQ Matters; Monitoring of Coal to Thermal Power Plants; Information Technology & Cyber Security (IT&CS); Operation and Maintenance (OM) including Grid India; Administration; Reforms and Restructuring (R&R); Electricity Act, 2003; Tariff Policy; Central Electricity Regulatory Commission (CERC); Joint Electricity Regulatory Commissions (JERCs); Appellate Tribunal for Electricity (APTEL).
+
+Dr.
+
+D Sai Baba, Additional Secretary, oversees Transmission including Power Grid Corporation of India Limited (PGCIL) & Grid Integration of Renewable Energy; Vigilance & Security.
+
+The allocation of work amongst the Joint Secretaries and equivalent officers in the Ministry of Power is as under: Shri Mohammad Afzal, Joint Secretary look after the work of Hydro Power including NHPC Ltd., SJVN Ltd., NEEPCO Ltd., THDC India Ltd., Bhakra Beas Management Board (BBMB), Parliament; Public Grievance; Right to Information (RTI); Reservation; Record.
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p11_c8
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [11, 12] (Primary: 11)
+METRICS    : 902 tokens | 3757 chars
+------------------------------------------------------------------------------------------
+D Sai Baba, Additional Secretary, oversees Transmission including Power Grid Corporation of India Limited (PGCIL) & Grid Integration of Renewable Energy; Vigilance & Security.
+
+The allocation of work amongst the Joint Secretaries and equivalent officers in the Ministry of Power is as under: Shri Mohammad Afzal, Joint Secretary look after the work of Hydro Power including NHPC Ltd., SJVN Ltd., NEEPCO Ltd., THDC India Ltd., Bhakra Beas Management Board (BBMB), Parliament; Public Grievance; Right to Information (RTI); Reservation; Record.
+
+Shri Shashank Misra, Joint Secretary looks after Distribution & Reforms, Distribution and Utility Reforms & Special Intervention (UR&SI); Power Finance Corporation; REC; International Cooperation (IC).
+
+Shri Aadhar Raj, Joint Secretary looks after Thermal Power, NTPC ltd; Damodar Valley Corporation (DVC); Fuel Supply; Fuel Supply Agreements; Monitoring of Coal to Thermal Power Plants; Information Technology & Cyber Security (IT&CS).
+
+Shri Mahabir Prasad, Joint Secretary and Financial Adviser oversees the Internal Finance and Budgetary Control of this Ministry.
+
+Ms.
+
+Reetu Jain, Economic Advisor oversees the Policy & Planning; Power Projects Monitoring Panel; All Tax Related Matters, e-Samiksha and PRAGATI; Training & Research; Coordination and CPSU – Policy Coordination Desk.
+
+Shri Nimish Rustagi, Additional Director General oversees all matters relating to media engagements and information dissemination through print, TV , radio, digital media and other platforms.
+
+Two Chief Engineers from Central Electricity Authority are taken on loan basis to assist the work relating Reforms and Restructuring; Regulatory Compliance Monitoring (RCM) & New & Renewable Energy (NRE); Electricity Act, 2003; Tariff Policy; Central Electricity Regulatory Commission (CERC); Joint Electricity Regulatory Commissions (JERCs); Appellate Tribunal for Electricity (APTEL); Standard Bidding Documents for Procurement of Power and Energy Conservation, Energy Transition; Official language.
+
+Further, there is a Principal Accounts Office headed by the Chief Controller of Accounts who in turn reports to the Financial Adviser in the Ministry of Power.
+
+Matters relating to reservations for Scheduled Castes (SCs), Scheduled Tribes (STs), Economically Weaker
+
+Section (EWS), Person with Disability (PwD), Other Backward Castes (OBC) and Ex-Servicemen categories in the Ministry including PSUs under its administrative control are dealt with by the Director Level Officer who is also the Liaison Officer for SC/ST/PwD/EWS/ Ex-Servicemen and another Director level officer is the Liaison officer for OBCs.
+
+CHAPTER 02
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA8 SHRI MANOHAR LAL MINISTER OF POWER ORGANISATION STRUCTURE OF THE MINISTRY OF POWER SHRI PANKAJ AGARWAL SECRETARY (POWER) Sh. Hemant Kumar Pandey CE (HKP)* CEA Chairperson (Ghanshyam Prasad) Member (Thermal) (Praveen Gupta) Member (Hydro) [Milind Ganesh Gokhale] Member(Planning) (A Balan) Member (Power System) (Vijay Kumar Singh ) Member (Grid Operation & Distribution) (Hemant Jain) Member (Eco.& Commercial) (Vacant) (Additional charge with Member (Thermal))
+
+• Reforms and Restructuring
+
+• RCM & NRE
+
+• Electricity Act, 2003
+
+• Tariff Policy
+
+• CERC
+
+• JERC
+
+• APTEL
+
+• Std. Bidding Documents for Procurement of Power Sh. Mohammad Afzal JS(MA) # Sh. Mahabir Prasad JS&FA # Policy & Planning . Power Projects Monitoring Panel . All Tax related Matters . e-Samiksha As on 19.01.2026 Thermal Power . NTPC . DVC . UMPP . FSC . Fuel Supply
+
+• Fuel Supply Agreements
+
+• ACQ Matters
+
+• Monitoring of Coal to Thermal Power Plants [Through JS(Thermal)]
+
+• Administration
+
+• OM (including Grid India)
+
+• R&R [Through CE(R&R)]
+
+• IT&CS [Through JS(IT&CS)]
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p12_c9
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [12] (Primary: 12)
+METRICS    : 894 tokens | 3114 chars
+------------------------------------------------------------------------------------------
+• Fuel Supply Agreements
+
+• ACQ Matters
+
+• Monitoring of Coal to Thermal Power Plants [Through JS(Thermal)]
+
+• Administration
+
+• OM (including Grid India)
+
+• R&R [Through CE(R&R)]
+
+• IT&CS [Through JS(IT&CS)]
+
+• Fuel Supply Cell [Through JS(FSC)] Sh. Hemant Jain, CCA Hydro Power including NHPC, SJVNL, NEEPCO, THDC, BBMB, Environment Management for Hydro Projects. Hydro Projects in SAARC countries Dr. D Sai Baba AS (DSB) Sh. Piyush Singh AS (PS) *CE(DKS) and CE(HKP) are working on loan basis from CEA. Ms. Reetu Jain, EA (RJ) # SHRI SHRIPAD NAIK MINISTER OF STATE FOR POWER Sh Dhiraj Kr Srivastava CE(DKS)* # •ECET&EV •Power Project Monitoring •Official Language #Directly reporting to Secy (P) •Parliament# •Public Grievance# •RTI# •Reservation# •Record#
+
+• Transmission
+
+• PGCIL
+
+• Grid Integration of Renewable Energy [Through Dir(Trans and PG)]
+
+• V&S [Through DS(V&S)]
+
+• PRAGATI portal Sh. Shashank Misra JS (SM) # Distribution & Reforms •Distribution •UR&SI Sh. Aadhar Raj, JS (AR)
+
+• Internal Finance
+
+• Assets Monetization# [Through JD (P&P)] Budgetary Control IC, G-20 Coordination and CPSU - Policy Coordination Desk T&R
+
+• Thermal
+
+• Fuel Supply Cell
+
+• IT&CS Sh. Nimish Rustagi, ADG (PIB) (NR) #
+
+• Media Sh.
+
+Piyush Singh Additional Secretary Sh.
+
+R S Negi, Dir (Administration) Sh.
+
+Praveen Kumar US(Adm.II, Adm.III, Adm.
+
+Portal Desk & Cash) Sh.
+
+Harish Bhandari US (Adm.I) Sh.
+
+Bhagwant Rajput SO (Adm.II) Sh.
+
+Avkash Kumar SO and Sh.
+
+Atul Kr.
+
+Upadhyay, SO (Adm.I) Sh.
+
+Pradeep Kumar Gautam SO and Sh.
+
+Ashish Saini (Adm.III & CR) Smt.
+
+Pushpam Sukumaran SO, Smt.
+
+Aparna Dasgupta, SO and Sh.
+
+A.
+
+C.
+
+Mallik, SO (Cash) Adm.-I – Cadre management of CPES and appointment of Chairperson/ Members in CEA Adm.-II – All service matters concerning Senior level posts, Central Staffing Scheme,.
+
+centralized grades of MoP cadre of CSS, CSSS & CSCS, other grades of Gr.
+
+C, ex-cadre posts Adm.-III – General Administration, Matters relating to CGHS facility, Estate Office, and Central Registry etc.
+
+Cash – Drawing & Disbursing of pay and allowances, TA Bills, Medical Bills etc.
+
+Sh.
+
+Nitin Kumar SO (Adm.
+
+Portal Desk) Sh.
+
+Parveen Kr Dudeja Dir (Operation & Monitoring ) Sh.
+
+Thenkolal Baite US (OM) Sh.
+
+Sandeep Chauhan SO (OM)OM – OM of regional Power grid, review of power supply maintenance, disaster Management., annual generation target, PSDF, power to Delhi, Coal import/supply for operating TPPs, power allocation from unallocated quota (15%) of Central Gen.
+
+Stations, Guidelines for power allocation, POSOCO i.e.
+
+Grid India.
+
+R&R - Enactment of Legislation & framing of policies thereunder (Electricity Act 2003, Tariff Policy & National Electricity Policy etc.), Implementation of Electricity Act, 2003, Tariff Policy and National Electricity Policy.
+
+Matters relating to CERC/ SERCs/JERCs and Appellate Tribunal for Electricity, Reform & Restructuring of power sector of States/ UTs.
+
+Formulation of Guidelines and Standard Bidding Documents (SBDs) for procurement of power.
+
+R&R [Through CE (HKP)*] *CE(HKP) is working on loan basis from CEA.
+
+Thermal, FSC, IT&CS [Through JS (AR)]
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p12_c10
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [12, 13, 14] (Primary: 12)
+METRICS    : 875 tokens | 3578 chars
+------------------------------------------------------------------------------------------
+Matters relating to CERC/ SERCs/JERCs and Appellate Tribunal for Electricity, Reform & Restructuring of power sector of States/ UTs.
+
+Formulation of Guidelines and Standard Bidding Documents (SBDs) for procurement of power.
+
+R&R [Through CE (HKP)*] *CE(HKP) is working on loan basis from CEA.
+
+Thermal, FSC, IT&CS [Through JS (AR)]
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA 9 Sh.
+
+Mahabir Prasad JS&FA (Internal Finance & Budgetary Control) Sh.
+
+Pankaj Kumar Jha US (Finance) Sh.
+
+Naveen Chandra Joshi US (Budget) Sh.
+
+Uday Shanker Pandey Dir (Finance) Finance – References seeking advice, concurrence of financial advisor on creation/upgradation/continuance of posts, release of fund, grant of honorarium, matters pertaining to SFC/EFC/PIB Appraisal, release of funds for power projects, matters relating to terms and conditions, pay fixation of director level officials of CPSUs, cases of foreign deputation abroad.
+
+Budget - Budget matters of MoP, viz, preparation of statement of budgetary estimates (SBE, DDG, Supplementary demands, vote on account , re-appropriation, surrender of savings for the ministry, Parliament standing committee on energy, Preparation and reporting of progress of monitoring framework for output/outcome.
+
+Shri Hemant Jain Chief Controller of Accounts(P) Audit and Accounts- Appropriation Accounts, Finance Accounts, Statement of Central Transaction (SCT), Transfer entry (TE), Journal entry (JE), Monthly Accounts, Non-tax Revenue, Miscellaneous receipts, All accounts related matters with Statutory Bodies, Autonomous Bodies and Public Sector Undertaking (PSU’s), PFMS, IT projects, E-bills, NTRP, Review of sanction, Bill Payment, Expenditure & Cash management, Banking arrangement, Loans & Investment& Guarantee and Grants, Pension, Fund, NPS/UPS/OPS, Monitoring of Assets & Liabilities, FRBM, Complete Internal Audit, Compliance & Grantee Institution, Risk Based Audit, Standing Audit Committee (SAC) meeting, C&AG Audit ATN vetting, Risk based Audit.
+
+Sh.
+
+Chitra Ravikumar SO(Finance) Sh.
+
+Virender Singh SO(Budget) JS&FA is also looking after the work of Assets Monetization through JD (P&P) Controller of Accounts Asst.
+
+Controller of Accounts / Pay & Accounts Officer Dr.
+
+D Sai Baba Additional Secretary Transmission – All States/UTs Transmission Projects, REBs/RLDs, PLCC/PTCC matters, Cross Border Trade of Power with neighboring countries, Srinagar-Leh Transmission Project, NERPSIP, Comprehensive Scheme for improvement of Transmission and Distribution System in Arunachal Pradesh and Sikkim, Perspective Transmission Plan.
+
+PGCIL- All matters of PGCIL & its implemented Trans projects.
+
+Central Transmission Projects and Utility, National Power Grid, Exchange of Power with neighboring countries by Transmission project implemented by Power Grid.
+
+Renewable Energy, Separation of CTU from PGCIL, General Network Access (GNA).
+
+Sh.
+
+OM Kant Shukla* Dir (Transmission) Sh.
+
+Naorem Indrakumar Singh, US (Transmission) Sh.
+
+M.V.N.
+
+Vara Prasad, US (PG) Sh.
+
+Abhishek Yadav SO(Trans) Sh.
+
+Shubham Verma SO(PG) Sh.
+
+Ram Narayan US (V&S) Sh.
+
+Kundan Bharti Sinha DS (V&S) Sh.
+
+Vipin Sabherwal SO (V&S) Sh.
+
+Rahul Raj*, Dir (PG) *working on loan basis from CEA.
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA10 Sh.
+
+Naveen Chandra Joshi US (Budget) Shri Hemant Jain Chief Controller of Accounts(P) Sh.
+
+Virender Singh SO(Budget) Controller of Accounts Organizational Structure of office of Chief Controller of Accounts Asst.
+
+Controller of Accounts / Pay & Accounts Officer Principal Accounts Office (A/Cs) Pr.
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p13_c11
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [13, 14, 15] (Primary: 13)
+METRICS    : 878 tokens | 3299 chars
+------------------------------------------------------------------------------------------
+Vipin Sabherwal SO (V&S) Sh.
+
+Rahul Raj*, Dir (PG) *working on loan basis from CEA.
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA10 Sh.
+
+Naveen Chandra Joshi US (Budget) Shri Hemant Jain Chief Controller of Accounts(P) Sh.
+
+Virender Singh SO(Budget) Controller of Accounts Organizational Structure of office of Chief Controller of Accounts Asst.
+
+Controller of Accounts / Pay & Accounts Officer Principal Accounts Office (A/Cs) Pr.
+
+Accounts Office (Administration & Co-ordination) Internal Audit Wing PAO (Sectt.) New Delhi PAO (CEA) New Delhi PAO (CEA) Bangalore IT Cell Budget - Budget matters of MoP, viz, preparation of statement of budgetary estimates (SBE, DDG, Supplementary demands, vote on account, re-appropriation, surrender of savings for the ministry, Parliament standing committee on energy, Preparation and reporting of progress of monitoring framework for output/outcome.
+
+Audit and Accounts- Appropriation Accounts, Finance Accounts, Statement of Central Transaction (SCT), Transfer entry (TE), Journal entry (JE), Monthly Accounts, Non-tax Revenue, Miscellaneous receipts, All accounts related matters with Statutory Bodies, Autonomous Bodies and Public Sector Undertaking (PSU’s), PFMS, IT projects, E-bills, NTRP, Review of sanction, Bill Payment, Expenditure & Cash management, Banking arrangement, Loans & Investment& Guarantee and Grants, Pension, Fund, NPS/UPS/OPS, Monitoring of Assets & Liabilities, FRBM, Complete Internal Audit, Compliance & Grantee Institution, Risk Based Audit, Standing Audit Committee (SAC) meeting, C&AG Audit ATN vetting, Risk based Audit.
+
+Sh.
+
+Shashank Misra, Joint Secretary (Distribution & Reforms) [Distribution(NEF/IPDS/DDUGJY/Saubhagya), Utility Reforms & Special Intervention, Power Finance Corporation, Rural Electrification Corporation, IC, G-20] Distribution Section– Administration of all schemes such as NEF, IPDS, DDUGJY, Saubhagya.
+
+REC/PFC Section – All administrative matters of REC/PFC.
+
+Utility Reforms & Special Intervention – Formulation of Reforms linked scheme and any other new scheme.
+
+Utility Financial Matters, Utility Privatization, Power Sector Vision, National DISCOM.
+
+Smt.
+
+Nidhi Juneja is also reporting to Dir (Reservation) for Reservation matters.
+
+Sh.
+
+Pranav Tayal, Dir.
+
+(UR & SI- I & II) Smt.
+
+Nidhi Juneja US (PFC/REC) Sh.
+
+Pardeep Kumar, US (Distribution) Sh.
+
+Ajay Kumar SO (UR&SI-I) Sh.
+
+Shashank Sharma SO (PFC/REC) Smt.
+
+Bimlesh Pawar, US (UR&SI-II) Sh.
+
+Sidhant Khajuria SO(UR&SI-II) Smt.
+
+Neeru Lal US (UR&SI-I) Amit Meena SO (Distribution) Sh.
+
+Ravi Dhawan, Dir.
+
+(Distribution, PFC/REC) Sh.
+
+Kartik Agarwal Deputy Secretary (IC, G-20) Sh.
+
+Ram Narayan US(IC) Sh Suraj Pandey SO (IC)
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA 11 Sh.
+
+Mohammad Afzal Joint Secretary (Hydro, Parliament, Reservation, Public Grievance, RTI & Record) [Hydro matters including CPSUs namely NHPC, SJVNL, NEEPCO, THDC, Environment Management for Hydro Projects, Bhakra Beas Management Board] Sh.
+
+Santosh Kumar, Dir* (Hydel-II) Sh Ankit Jain US (Hydel-I) Sh.
+
+Amit Roy Singal* DD (NHPC) Sh.
+
+Akash Bansal SO (HydelII) NHPC: Administrative and other project related issues of NHPC, NHDC, J&K projects of NHPC.
+
+Coordination work of all J&K matters.
+
+E&F related issues of Power Sector projects.
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p15_c12
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [15] (Primary: 15)
+METRICS    : 886 tokens | 2993 chars
+------------------------------------------------------------------------------------------
+Santosh Kumar, Dir* (Hydel-II) Sh Ankit Jain US (Hydel-I) Sh.
+
+Amit Roy Singal* DD (NHPC) Sh.
+
+Akash Bansal SO (HydelII) NHPC: Administrative and other project related issues of NHPC, NHDC, J&K projects of NHPC.
+
+Coordination work of all J&K matters.
+
+E&F related issues of Power Sector projects.
+
+Hydel-I: All administrative & project related matters of THDC, NEEPCO & Coordination work of all projects in NER.
+
+Hydel-II & BBMB Desk: All administrative & project related matters of SJVNL, and BBMB related matters.
+
+Hydro policy & misc.
+
+matters of Hydro electric projects except J&K & NE states.
+
+Hydro projects in SAARC countries.
+
+Sh.
+
+Santosh Kumar* Director (Hydel-I) Sh.
+
+Vikram Singh Gurjar SO(Hydel-I) Sh.
+
+Pankaj Saini SO(NHPC) Sh.
+
+Karam Chand, Dir (Reservation) Smt.
+
+Lekshmy N SO (RTI & PG Desk) Sh.
+
+Saket Kr Sinha US (Record) Sh.
+
+Ravi Patras Tirkey US (Parliament) Sh.
+
+Purushottam Meena, SO (Parliament) Smt.
+
+Nidhi Juneja, US (Reservation Desk) Sh.
+
+Amarjit Singh, Dir (Public Grievance, RTI & Record) Sh.
+
+Saket Kr Sinha is also reporting to DS/Dir (ECETEV) for ECETEV.
+
+Reservation- Monitor implementation of reservation policies of Govt.
+
+for SC,ST, OBC & PH in MoP and its organizations.
+
+RTI/Grievance – All matters relating to public grievances and RTI.
+
+Parliament – Coordination of all Parliament matters.
+
+Sh.
+
+Karam Chand is also reporting to CE(DKS) for OL.
+
+Sh.
+
+Shishir Kr Sukal SO (Reservation Desk) Ms Madhumita Ghosh, SO (BBMB) Sh.
+
+Arun Kr Garg Director (Parliament) *On Loan Basis from CEA Sh.
+
+Himanshu Lal* DD (Hydel-II) Sh.
+
+Ratnesh Kumar Yadav* DD (BBMB) Sh.
+
+Aadhar Raj Joint Secretary (Thermal, Fuel Supply Cell, IT&CS) Sh.
+
+Kumar Amrendra, US(FSC & UMPP) Sh.
+
+Ashok Kumar SO (Thermal-I) Sh.
+
+Rahul Kumar, SO and Ms.
+
+Simmy Ranjan, SO (FSC) Thermal.I-Appointment of CMD, Full/part time Director on NTPC BoD,, Gas issues/BTPS issues, Thermal Audit Paras, VIP references.
+
+Thermal.II- All project issues of NTPC Ltd.
+
+(Coal mine/FSA/JVs/ Power allocation/ super critical technology/ NTPC’s QPR, Annual Report etc.
+
+DVC- Administrative & financial matters of DVC, Selection/ Appointment of Chairman/Members of DVC Board, part-time members of DVC Board.
+
+All DVC’s project related issues/ concerns., Audit paras of DVC, VIP references, QPR of DVC.
+
+FSC – Private power policy and matters of private sector (IPPs & CPPs) power projects, policy for allocation of coal linkage/ coal blocks to power sector, FDI in power sector, Mega Power Policy, issues of commissioning/ Commercial Operation Date (CoD) of TPPs.
+
+UMPP- All issues in setting up of UMPP and other related matters.
+
+Vacant US(DVC Desk and St.
+
+Thermal) Sh.Rajesh Kumar Gope SO (Thermal-II) Sh.
+
+Chittranjan Acharya US (Thermal) Sh.
+
+Rohit Bhardwaj SO (St.
+
+Thermal) Sh Vishal Kumar Singh SO(DVC Desk) Sh.
+
+Satish Kumar Dir (Thermal, St.
+
+Thermal, DVC and UMPP) Sh.
+
+Prem Kumar Negi SO(UMPP) Sh.
+
+Parveen Kr Dudeja Dir (FSC) Sh.
+
+Jitendra Misra DS (FSC^) ^Shri Jitendra Misra, DS along with Sh.
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p15_c13
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [15, 16, 17] (Primary: 15)
+METRICS    : 889 tokens | 3117 chars
+------------------------------------------------------------------------------------------
+Chittranjan Acharya US (Thermal) Sh.
+
+Rohit Bhardwaj SO (St.
+
+Thermal) Sh Vishal Kumar Singh SO(DVC Desk) Sh.
+
+Satish Kumar Dir (Thermal, St.
+
+Thermal, DVC and UMPP) Sh.
+
+Prem Kumar Negi SO(UMPP) Sh.
+
+Parveen Kr Dudeja Dir (FSC) Sh.
+
+Jitendra Misra DS (FSC^) ^Shri Jitendra Misra, DS along with Sh.
+
+P K Dudeja, Director is looking after work of FSC till retirement of Sh Dudeja on 31.01.2026.
+
+Sh.
+
+Manish Mishra (IT&CS) Sh.
+
+Mukesh Kumar, DD*
+
+* Sh. Mukesh Kumar, DD is on loan basis from NPTI
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA12 Ms.
+
+Reetu Jain, Economic Adviser [Policy & Planning, Power Projects Monitoring Panel, All Tax Related Matters, e-Samiksha and PRAGATI portal] P&P – Finalisation of annual/5 yr./mid term appraisal plan, capacity addition program, IEA/WEC matters, Coordination Committee for Energy, Sustainable Development of Energy, Review/Monitoring of Central Sector Power project, e- Samiksha and PRAGATI review.
+
+Ms.
+
+Reetika Gupta AD (P&P Desk) Sh.
+
+Rakesh Kumar, JD (P&P and T&R) Sh.
+
+Sunil Kumar Jassal, Dir (Coordination & CPSU-Policy Coordination) Sh.
+
+Laxmi Kant DD (Coordination & CPSU Policy Desk) Sh.
+
+Nadeem Ahmad SO (CPSU Desk) Sh.
+
+Pranjal Sinha SO(Coord) Sh.
+
+Sum Than Lian US (T&R) Sh.
+
+Suresh Kumar SO(T&R) Sh Dhiraj Kr Srivastava* Chief Engineer (ECET&EV, Power Project Monitoring and Official Language) Sh.
+
+Kartik Agarwal Deputy Secretary (ECET&EV) Sh.
+
+Saket Kr Sinha US (ECET&EV) Sh.
+
+Vikas SO(ECET&EV) ECET&EV- Matters relating to Energy Conservation & Energy Transition Policy & Planning, implementation of Energy Conservation Act & framing of rules/regulations under the Act etc., Energy audit, Administrative matters of BEE, National Energy Conservation Awards/day.
+
+All issues related to EV.
+
+*On Loan Basis from CEA Sh.
+
+Saket Kr Sinha is also reporting to DS (Record) for Record.
+
+Vacant AD(OL) Sh.
+
+Samsher Singh# Deputy Director (OL) Sh.
+
+Sushil Kumar AD(OL) Sh.
+
+Sachin Kumar SO(ECET&EV) #Sh Samsher Singh posted against vacant post of JD(OL).
+
+Sh.
+
+Karam Chand Director (Official Language) Sh.
+
+Karam Chand is also reporting to JS (Reservaion) for Reservation.
+
+Sh.
+
+Kartik Agarwal is also reporting to JS (SM) for IC, G-20 Sh.
+
+S Sasikumar Director (ECET&EV)
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA 13 Sh.
+
+Hemant Kumar Pandey* Chief Engineer [Regulatory Compliance Monitoring (RCM), NRE, Reforms & Restructuring (R&R), Electricity Act 2003] (Including Electricity Policy, Tariff Policy, CERC, JERC, APTEL and Standard Bidding Documents for Procurement of Power) R&R - Enactment of Legislation & framing of policies thereunder (Electricity Act 2003, Tariff Policy & National Electricity Policy etc.), Implementation of Electricity Act, 2003, Tariff Policy and National Electricity Policy.
+
+Matters relating to CERC/ SERCs/JERCs and Appellate Tribunal for Electricity, Reform & Restructuring of power sector of States/ UTs.
+
+Formulation of Guidelines and Standard Bidding Documents (SBDs) for procurement of power.
+
+*On Loan Basis from CEA Sh.
+
+Sanjeev Prasad US(RCM) Sh.
+
+Ramkesh Mali, SO and Surendra Kumar, SO (NRE) Sh.
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p17_c14
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [17, 18] (Primary: 17)
+METRICS    : 791 tokens | 3081 chars
+------------------------------------------------------------------------------------------
+Matters relating to CERC/ SERCs/JERCs and Appellate Tribunal for Electricity, Reform & Restructuring of power sector of States/ UTs.
+
+Formulation of Guidelines and Standard Bidding Documents (SBDs) for procurement of power.
+
+*On Loan Basis from CEA Sh.
+
+Sanjeev Prasad US(RCM) Sh.
+
+Ramkesh Mali, SO and Surendra Kumar, SO (NRE) Sh.
+
+Uttam Kumar Kar, DS (R&R-II) Smt.
+
+Lakshmi Murali US (R&R-II) Smt.
+
+Chanchal SO(R&R-II) Sh.
+
+Manish Mishra Dir (R&R-I) Sh.
+
+Vikash Khichi US (R&R-I) Sh.
+
+Manish Khorwal SO(R&R-I) Sh.
+
+Vishal Kumar US (NRE) Sh.
+
+Vijaya Kr Ponna SO( RCM) Sh.
+
+Sunil Kumar Sharma, Dir (NRE & RCM) Sh Manish Mishra, Dir is also reporting directly to JS(AR) for IT&CS matters.
+
+Key Abbreviations Used: ACQ Annual Contracted Quantity Adm.
+
+Administration APTEL Appellate Tribunal for Electricity AS Additional Secretary BBMB Bhakra Beas Management Board CE Chief Engineer CEA Central Electricity Authority CERC Central Electricity Regulatory Commission CR Central Registry DS Deputy Secretary DVC Damodar Valley Corporation EA Economic Advisor ECET&EV Energy Conservation, Energy Transition & Electric Vehicle FSC Fuel Supply Cell IC International Cooperation IT&CS Information Technology & Cyber Security JD Joint Director JERC Joint Electricity Regulatory Commission JS Joint Secretary JS&FA Joint Secretary & Financial Advisor NEEPCO North Eastern Electric Power Corporation Ltd NRE New & Renewable energy OL Official Language OM Operations and Mangement P&P Policy & Planning PRAGATI Pro-Active Governance And Timely Implementation PFC Power Finance Corporation Ltd PGCIL Power Grid Corporation of India Limited R&R Reforms and Restructuring RCM Regulatory Compliance Monitoring REC RURAL ELECTRIFICATION CORPORATION LTD SO Section Officer T&R Training & Research THDC Tehri Hydro Development Corporation Limited UMPP Ultra Mega Power Projects UR&SI Utility Reforms & Special Intervention US Under Secretary V&S Vigilance & Security
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT.
+
+OF INDIA14 CAP ACITY The Indian power sector has come a long way in the past decade, transforming from a power- deficit to a powersufficient nation.
+
+A series of concerted measures led to 86.2 % increase in generation capacity – from 276 GW in Mar’15 to 514 GW in Dec’25.
+
+Electricity generation also increased from 1110.39 BU in 2014-15 to 1829.70 BU in 2024-25 at a CAGR of 5.12%, enabling India to reduce its energy and peak deficit from 3.6% and 4.7% in 2014-15 to 0.1% and 0.0% in 2024-25 respectively.
+
+The Peak demand has grown at a CAGR of 5.4% during 2014-15 to 2024-25 while Energy Requirement has grown at a rate of 4.7% during 2014-15 to 2024-25.
+
+The peak not met and energy not supplied of the country is observed to be very minimal over last five years and was on account of factors other than lack of generation capacity in the country.
+
+GROWTH IN INSTALLED CAP ACITY The installed generation capacity in the country increased from 475212 MW as on 31.03.2025 to 513730 MW as on 31.12.2025.
+
+As on 30th December 2025, total installed capacity in the country is 514 GW .
+==========================================================================================
+
+CHUNK ID   : India_annual_reports_p18_c15
+SOURCE     : annual_reports.pdf
+CATEGORY   : India
+PAGES      : [18, 19] (Primary: 18)
+METRICS    : 904 tokens | 2358 chars
+------------------------------------------------------------------------------------------
+The peak not met and energy not supplied of the country is observed to be very minimal over last five years and was on account of factors other than lack of generation capacity in the country.
+
+GROWTH IN INSTALLED CAP ACITY The installed generation capacity in the country increased from 475212 MW as on 31.03.2025 to 513730 MW as on 31.12.2025.
+
+As on 30th December 2025, total installed capacity in the country is 514 GW .
+
+Category Installed Capacity (MW) As on 31.03.2025 % Share in Total Installed Capacity Installed Capacity (MW) As on 31.12.2025 % Share in Total Installed Capacity Increase (MW) % Increase Fossil Fuel Capacity Coal 215193 45.28 219610 42.75 4417 2.05 Lignite 6620 1.39 6620 1.29 0 0 Gas 24533.26 5.16 20122.42 3.92 -4410.84 -17.98 Diesel 589.2 0.12 589.2 0.11 0 0 Total Fossil Fuel Capacity (A)
+
+246935.46 51.96 246941.62 48.07 6.16 0.002 Non-Fossil Fuel Capacity Hydro 47728.16 10.04 50914.66 9.91 3186.5 6.68 Wind, Solar & Other RE 172368.18 36.27 207093.41 40.31 34725.23 20.15 Wind 50037.82 10.53 54510.93 10.61 4473.11 8.94 Solar 105646.49 22.23 135809.94 26.44 30163.45 28.55 Small Hydro 5100.55 1.07 5158.61 1.00 58.06 1.14 Bio Power 10743.11 2.26 10757.31 2.09 14.2 0.13 Waste to Enegy 840.21 0.18 856.62 0.17 16.41 1.95 Total RE (Including Hydro) 220096.34 46.32 258008.07 50.22 37911.73 17.23 Nuclear 8180 1.72 8780 1.71 600 7.33 Total Non-Fossil Fuel Capacity
+
+228276.34 48.04 266788.07 51.93 38511.73 16.87 Total Installed Capacity 475211.8 100 513729.69 100 38517.89 8.11 GROWTH IN GENERATION The total electricity generation in the country increased from 1380.08 BU during FY 2024-25 (April-December) to
+
+CHAPTER 03
+
+ANNUAL REPORT 2025-26 MINISTRY OF POWER | GOVT. OF INDIA 15
+
+1384.86 BU during FY 2025-26 (April-December). Contribution of various fuel sources to the total generation is shown in the table below: Growth in Generation during 2025-26 (April-2025 to December-2025) Category-wise : Y ear 2024-25 (April-2024 to December-2024) Y ear 2025-26 (April-2025 to December-2025) (**) Growth (%) Generation (BU) % of Total Generation Generation (BU) % of Total Generation
+
+• Generation from Fossil Fuel : Coal 965.18 69.94 920.38 66.46 (-) 4.64 Gas 26.54 1.92 20.95 1.51 (-) 21.05 Lignite 24.76 1.79 22.08 1.59 (-) 10.83 Diesel 0.33 0.02 0.32 0.02 (-) 2.49 Total (Fossil Fuel) : 1016.81 73.68 963.73 69.59 (-) 5.22
+==========================================================================================
+

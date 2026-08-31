@@ -1,0 +1,10 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "similarity_metric": "Cosine Similarity (IndexFlatIP with L2 Normalization)",
+  "normalization_method": "L2 Unit Length Normalization",
+  "total_chunks_indexed": 1155,
+  "faiss_index_file": "energy_knowledge_base.faiss",
+  "metadata_file": "chunk_metadata.json",
+  "created_at": "2026-08-31 11:24:38"
+}

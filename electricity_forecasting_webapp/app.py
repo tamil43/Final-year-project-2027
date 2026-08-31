@@ -456,7 +456,7 @@ if models_ready:
 
         gap_res = perform_gap_analysis(d_res, s_res)
         risk_res = assess_risk(gap_res["predicted_gap"], gap_res["condition"])
-        rag_res = generate_energy_planning_recommendation(gap_res, risk_res)
+        rag_res = generate_energy_planning_recommendation(gap_res, risk_res, month_name=month_display)
 
 
     # =========================================================================
@@ -791,48 +791,31 @@ if models_ready:
     # TAB 4: RAG-BASED ENERGY PLANNING
     # -------------------------------------------------------------------------
     with tab4:
-        st.header("🏛️ RAG-Based Energy Planning & Decision Support")
+        st.header("⚡ Energy Recommendations")
         st.markdown(
-            "Retrieval-Augmented Generation (RAG) integrates numerical forecasts and risk severity levels "
-            "with trusted energy regulatory policies, CEA planning reports, and TNERC grid codes."
+            f"**Forecast Month:** `{month_display}` | **Demand-Supply Shortage:** `{gap_res['predicted_gap']:,.2f} MU` | **Risk Level:** `{risk_res['risk_level']} Risk`"
         )
+        st.markdown("---")
 
-        render_html(
-            """
-            <div class="dashboard-header" style="padding:14px 20px;margin-bottom:16px;">
-            <div style="font-size:0.85rem;font-weight:700;color:#60A5FA;text-transform:uppercase;">RAG Decision Pipeline Architecture</div>
-            <div style="font-size:0.95rem;color:#E2E8F0;margin-top:4px;">
-            Forecast (LSTM) ➔ 95% Prediction Interval ➔ Gap & Risk Assessment ➔ FAISS Vector Retrieval ➔ LLM Knowledge Synthesis
-            </div>
-            </div>
-            """
-        )
+        # Display ONLY the 5 simple recommendation points
+        rec_text = rag_res.get("recommendation_text", "")
+        if rec_text:
+            st.markdown(rec_text)
 
-        st.markdown(f"#### 📋 Energy Planning Recommendations ({month_display})")
-        st.markdown(
-            f"**Operational State:** `{gap_res['condition']}` | **Risk Level:** `{risk_res['risk_level']} Risk` | "
-            f"**Forecasted Gap:** `{gap_res['predicted_gap']:,.2f} MU` (95% PI: `[{rag_res['ci_95_range'][0]:,.2f}, {rag_res['ci_95_range'][1]:,.2f}] MU`)"
-        )
+        st.markdown("---")
 
-        for rec in rag_res["recommendations"]:
-            render_html(
-                f"""
-                <div class="rec-panel">
-                <div class="rec-cat">{rec['category']}</div>
-                <div class="rec-action">{rec['action']}</div>
-                <div class="rec-desc">{rec['details']}</div>
-                <div class="rec-cite">📜 Policy Grounding: {rec['policy_grounding']}</div>
-                </div>
-                """
-            )
-
-        st.markdown("#### 📚 Retrieved Regulatory Knowledge Base Excerpts")
-        for doc in rag_res["retrieved_knowledge"]:
-            with st.expander(f"📖 {doc['id']}: {doc['title']}"):
-                st.markdown(f"**Regulatory Citation:** `{doc['reference']}`")
-                st.markdown(f"**Policy Clause:** {doc['content']}")
-
-        st.caption("ℹ️ **RAG Governance:** The RAG system synthesizes recommendations from verified state grid rules. It does NOT forecast numbers.")
+        # Optional Collapsible Knowledge Base Chunks
+        retrieved_chunks = rag_res.get("retrieved_chunks", [])
+        if retrieved_chunks:
+            with st.expander("📚 Supporting Document Evidence"):
+                for chunk in retrieved_chunks:
+                    rank = chunk.get("rank", 1)
+                    source = chunk.get("source", "Document.pdf")
+                    page = chunk.get("page", "N/A")
+                    text = chunk.get("text", "")
+                    st.markdown(f"**Point #{rank} Source:** {source} (Page {page})")
+                    st.caption(text[:200] + "...")
+                    st.markdown("---")
 
 
     # -------------------------------------------------------------------------
