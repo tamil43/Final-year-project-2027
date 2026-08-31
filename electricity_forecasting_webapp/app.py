@@ -10,8 +10,14 @@ Domain: Deep Learning, Probabilistic Uncertainty Quantification & Applied RAG Pl
 ========================================================================================
 """
 
+import os
 import sys
 from pathlib import Path
+
+# Disable GPU initialization and OpenMP symbol conflicts on Linux containers
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 # Add webapp directory to sys.path
 WEBAPP_DIR = Path(__file__).resolve().parent
