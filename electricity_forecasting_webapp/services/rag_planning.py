@@ -37,21 +37,18 @@ from forecast_retrieval import RAGForecastRetriever
 from generate_recommendation import generate_recommendation as run_gemini_recommendation
 
 
-# Cache the retriever instance to avoid re-loading FAISS index on every rerun
-_retriever_instance = None
+import streamlit as st
 
+@st.cache_resource(show_spinner=False)
 def get_rag_retriever() -> RAGForecastRetriever:
-    global _retriever_instance
-    if _retriever_instance is None:
-        vector_db_path = RAG_DIR / "vector_db"
-        if not vector_db_path.exists():
-            vector_db_path = PROJECT_ROOT / "RAG" / "vector_db"
-        if not vector_db_path.exists():
-            vector_db_path = Path("RAG/vector_db")
-            
-        logger.info(f"Initializing FAISS RAG Retriever from {vector_db_path.resolve()}")
-        _retriever_instance = RAGForecastRetriever(vector_db_path)
-    return _retriever_instance
+    vector_db_path = RAG_DIR / "vector_db"
+    if not vector_db_path.exists():
+        vector_db_path = PROJECT_ROOT / "RAG" / "vector_db"
+    if not vector_db_path.exists():
+        vector_db_path = Path("RAG/vector_db")
+        
+    logger.info(f"Initializing FAISS RAG Retriever from {vector_db_path.resolve()}")
+    return RAGForecastRetriever(vector_db_path)
 
 
 def generate_energy_planning_recommendation(

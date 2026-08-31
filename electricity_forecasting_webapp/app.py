@@ -14,9 +14,13 @@ import os
 import sys
 from pathlib import Path
 
-# Disable GPU initialization and OpenMP symbol conflicts on Linux containers
+# Disable GPU initialization, limit OpenMP threads, and set single-thread mode for Linux containers
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["VECLIB_MAXIMUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
-os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 # Add webapp directory to sys.path
@@ -462,7 +466,6 @@ if models_ready:
 
         gap_res = perform_gap_analysis(d_res, s_res)
         risk_res = assess_risk(gap_res["predicted_gap"], gap_res["condition"])
-        rag_res = generate_energy_planning_recommendation(gap_res, risk_res, month_name=month_display)
 
 
     # =========================================================================
@@ -802,6 +805,9 @@ if models_ready:
             f"**Forecast Month:** `{month_display}` | **Demand-Supply Shortage:** `{gap_res['predicted_gap']:,.2f} MU` | **Risk Level:** `{risk_res['risk_level']} Risk`"
         )
         st.markdown("---")
+
+        with st.spinner("Retrieving knowledge base evidence & generating recommendations..."):
+            rag_res = generate_energy_planning_recommendation(gap_res, risk_res, month_name=month_display)
 
         # Display ONLY the 5 simple recommendation points
         rec_text = rag_res.get("recommendation_text", "")
