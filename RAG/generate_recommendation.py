@@ -23,16 +23,29 @@ load_dotenv(dotenv_path=env_path)
 
 
 def get_gemini_api_key() -> Optional[str]:
-    key = os.getenv("GEMINI_API_KEY")
+    """
+    Retrieves GEMINI_API_KEY securely supporting both:
+      1. Streamlit Cloud Deployment: st.secrets["GEMINI_API_KEY"]
+      2. Local Development: .env via os.getenv("GEMINI_API_KEY")
+    Never hardcodes, prints, or exposes the key.
+    """
+    key = None
+
+    # 1. Streamlit Cloud Deployment: Access st.secrets["GEMINI_API_KEY"]
+    try:
+        import streamlit as st
+        if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
+            key = st.secrets["GEMINI_API_KEY"]
+    except Exception:
+        key = None
+
+    # 2. Local Development: Fall back to .env file via os.getenv("GEMINI_API_KEY")
     if not key:
-        try:
-            import streamlit as st
-            key = st.secrets.get("GEMINI_API_KEY")
-        except Exception:
-            key = None
-            
-    if not key or key.strip() == "" or "YOUR_GEMINI_API_KEY" in key:
+        key = os.getenv("GEMINI_API_KEY")
+
+    if not key or not isinstance(key, str) or key.strip() == "" or "YOUR_GEMINI_API_KEY" in key:
         return None
+
     return key.strip()
 
 
