@@ -1,0 +1,390 @@
+{
+  "evaluation_title": "RAG Performance Evaluation",
+  "dataset_size": 20,
+  "knowledge_base_chunks": 1155,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "metrics": {
+    "precision_at_1": 0.6,
+    "precision_at_3": 0.55,
+    "precision_at_5": 0.56,
+    "recall_at_1": 0.14,
+    "recall_at_3": 0.495,
+    "recall_at_5": 0.8,
+    "mrr": 0.66,
+    "hit_rate_at_1": 0.6,
+    "hit_rate_at_3": 0.75,
+    "hit_rate_at_5": 0.8,
+    "faithfulness_groundedness": 1.0,
+    "context_relevance": 0.7196,
+    "answer_relevance": 1.0,
+    "correct_source_attribution_rate": 1.0,
+    "tamil_nadu_retrieval_hit_rate_at_5": 1.0,
+    "total_test_queries": 20,
+    "tamil_nadu_queries": 12,
+    "india_level_queries": 8,
+    "grounded_responses": 20,
+    "unsupported_responses": 0
+  },
+  "records": [
+    {
+      "query_id": "Q01",
+      "query": "Tamil Nadu peak demand management and evening non-solar hour power procurement",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Moderate",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 1.0,
+      "rr": 1.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q02",
+      "query": "TNERC resource adequacy guidelines and long term capacity contract compliance in Tamil Nadu",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Low",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q03",
+      "query": "Tamil Nadu agricultural water pump load shifting to daytime solar hours",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Moderate",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 1.0,
+      "rr": 1.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q04",
+      "query": "Thermal forced outage reserves and maintenance scheduling for Tamil Nadu state generators",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Low",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q05",
+      "query": "Tamil Nadu hydro reservoir storage dispatch and gas turbine ramping for evening peak support",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "High",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.6947599999999999,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf"
+      ]
+    },
+    {
+      "query_id": "Q06",
+      "query": "TANGEDCO renewable integration and wind solar capacity additions in Tamil Nadu",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Low",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q07",
+      "query": "Tamil Nadu power deficit crisis mitigation emergency inter-state imports and load rotation",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "High",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.6947599999999999,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf"
+      ]
+    },
+    {
+      "query_id": "Q08",
+      "query": "Day-Ahead Market DAM and Real-Time Market RTM power purchase optimization for Tamil Nadu grid",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Moderate",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 1.0,
+      "rr": 1.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q09",
+      "query": "Tamil Nadu industrial demand response and high-tension consumer tariff incentives",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Moderate",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 1.0,
+      "rr": 1.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q10",
+      "query": "Battery energy storage systems BESS deployment for renewable smoothing in Tamil Nadu",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Low",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q11",
+      "query": "Tamil Nadu SLDC frequency control and 50 Hz grid balancing protocols",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Low",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q12",
+      "query": "Substation transformer maintenance and transmission line contingency in Tamil Nadu",
+      "scope": "Tamil Nadu",
+      "risk_scenario": "Low",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8,
+      "rr": 1.0,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q13",
+      "query": "CEA National Electricity Plan generation capacity targets and renewable trajectory",
+      "scope": "National (India)",
+      "risk_scenario": "Low",
+      "p@1": 0.0,
+      "p@3": 0.3333333333333333,
+      "p@5": 0.2,
+      "rr": 0.3333333333333333,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q14",
+      "query": "National transmission expansion and inter-regional power transfer capacity guidelines",
+      "scope": "National (India)",
+      "risk_scenario": "Moderate",
+      "p@1": 0.0,
+      "p@3": 0.0,
+      "p@5": 0.0,
+      "rr": 0.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q15",
+      "query": "Ministry of Power resource adequacy framework regulations for state distribution companies",
+      "scope": "National (India)",
+      "risk_scenario": "Moderate",
+      "p@1": 0.0,
+      "p@3": 0.0,
+      "p@5": 0.0,
+      "rr": 0.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q16",
+      "query": "Tariff policy guidelines for multi-year tariff determination and return on equity",
+      "scope": "National (India)",
+      "risk_scenario": "Low",
+      "p@1": 0.0,
+      "p@3": 0.3333333333333333,
+      "p@5": 0.2,
+      "rr": 0.3333333333333333,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q17",
+      "query": "National energy conservation building codes and demand side management benchmarks",
+      "scope": "National (India)",
+      "risk_scenario": "Low",
+      "p@1": 0.0,
+      "p@3": 0.3333333333333333,
+      "p@5": 0.2,
+      "rr": 0.3333333333333333,
+      "avg_similarity": 0.7134,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf"
+      ]
+    },
+    {
+      "query_id": "Q18",
+      "query": "Optimal generation mix 2030 coal flexible operation and storage requirements",
+      "scope": "National (India)",
+      "risk_scenario": "Moderate",
+      "p@1": 0.0,
+      "p@3": 0.0,
+      "p@5": 0.0,
+      "rr": 0.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    },
+    {
+      "query_id": "Q19",
+      "query": "CEA grid code operational standards for spinning reserves and governor action",
+      "scope": "National (India)",
+      "risk_scenario": "High",
+      "p@1": 0.0,
+      "p@3": 0.0,
+      "p@5": 0.2,
+      "rr": 0.2,
+      "avg_similarity": 0.6947599999999999,
+      "retrieved_sources": [
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "nep-vol-1.pdf"
+      ]
+    },
+    {
+      "query_id": "Q20",
+      "query": "Renewable purchase obligation RPO compliance and energy storage purchase targets",
+      "scope": "National (India)",
+      "risk_scenario": "Moderate",
+      "p@1": 0.0,
+      "p@3": 0.0,
+      "p@5": 0.0,
+      "rr": 0.0,
+      "avg_similarity": 0.73594,
+      "retrieved_sources": [
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf",
+        "tamilnadu_energy_department.pdf",
+        "Tamil_Nadu_Resource_Adequacy_Report_2026.pdf"
+      ]
+    }
+  ]
+}

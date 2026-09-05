@@ -1,0 +1,358 @@
+{
+  "evaluation_title": "RAG Retrieval Phase Evaluation",
+  "summary_metrics": {
+    "context_precision": 0.56,
+    "context_recall": 0.6625,
+    "context_relevance": 0.7196,
+    "mrr": 0.66,
+    "ndcg_at_5": 0.7216,
+    "hit_rate_at_5": 0.8,
+    "total_test_queries": 20,
+    "top_k": 5,
+    "total_knowledge_base_chunks": 1155,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_dimension": 384
+  },
+  "per_query_records": [
+    {
+      "query_id": "Q01",
+      "query": "Tamil Nadu peak demand management and evening non-solar hour power procurement",
+      "relevance_vector": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.151,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q02",
+      "query": "TNERC resource adequacy guidelines and long term capacity contract compliance in Tamil Nadu",
+      "relevance_vector": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.149,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q03",
+      "query": "Tamil Nadu agricultural water pump load shifting to daytime solar hours",
+      "relevance_vector": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.151,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q04",
+      "query": "Thermal forced outage reserves and maintenance scheduling for Tamil Nadu state generators",
+      "relevance_vector": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 0.9558,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q05",
+      "query": "Tamil Nadu hydro reservoir storage dispatch and gas turbine ramping for evening peak support",
+      "relevance_vector": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.6948,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.2021,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q06",
+      "query": "TANGEDCO renewable integration and wind solar capacity additions in Tamil Nadu",
+      "relevance_vector": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 0.9558,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q07",
+      "query": "Tamil Nadu power deficit crisis mitigation emergency inter-state imports and load rotation",
+      "relevance_vector": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.6948,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.0,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q08",
+      "query": "Day-Ahead Market DAM and Real-Time Market RTM power purchase optimization for Tamil Nadu grid",
+      "relevance_vector": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.3836,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q09",
+      "query": "Tamil Nadu industrial demand response and high-tension consumer tariff incentives",
+      "relevance_vector": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.3836,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q10",
+      "query": "Battery energy storage systems BESS deployment for renewable smoothing in Tamil Nadu",
+      "relevance_vector": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 0.9558,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q11",
+      "query": "Tamil Nadu SLDC frequency control and 50 Hz grid balancing protocols",
+      "relevance_vector": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.149,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q12",
+      "query": "Substation transformer maintenance and transmission line contingency in Tamil Nadu",
+      "relevance_vector": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "context_precision": 0.8,
+      "context_recall": 1.0,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 1.0,
+      "ndcg_at_5": 1.149,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q13",
+      "query": "CEA National Electricity Plan generation capacity targets and renewable trajectory",
+      "relevance_vector": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "context_precision": 0.2,
+      "context_recall": 0.3333,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 0.3333,
+      "ndcg_at_5": 0.2346,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q14",
+      "query": "National transmission expansion and inter-regional power transfer capacity guidelines",
+      "relevance_vector": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 0.0,
+      "ndcg_at_5": 0.0,
+      "hit_at_5": 0.0
+    },
+    {
+      "query_id": "Q15",
+      "query": "Ministry of Power resource adequacy framework regulations for state distribution companies",
+      "relevance_vector": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 0.0,
+      "ndcg_at_5": 0.0,
+      "hit_at_5": 0.0
+    },
+    {
+      "query_id": "Q16",
+      "query": "Tariff policy guidelines for multi-year tariff determination and return on equity",
+      "relevance_vector": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "context_precision": 0.2,
+      "context_recall": 0.3333,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 0.3333,
+      "ndcg_at_5": 0.2346,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q17",
+      "query": "National energy conservation building codes and demand side management benchmarks",
+      "relevance_vector": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "context_precision": 0.2,
+      "context_recall": 0.25,
+      "context_relevance": 0.7134,
+      "reciprocal_rank": 0.3333,
+      "ndcg_at_5": 0.1952,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q18",
+      "query": "Optimal generation mix 2030 coal flexible operation and storage requirements",
+      "relevance_vector": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 0.0,
+      "ndcg_at_5": 0.0,
+      "hit_at_5": 0.0
+    },
+    {
+      "query_id": "Q19",
+      "query": "CEA grid code operational standards for spinning reserves and governor action",
+      "relevance_vector": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "context_precision": 0.2,
+      "context_recall": 0.3333,
+      "context_relevance": 0.6948,
+      "reciprocal_rank": 0.2,
+      "ndcg_at_5": 0.1815,
+      "hit_at_5": 1.0
+    },
+    {
+      "query_id": "Q20",
+      "query": "Renewable purchase obligation RPO compliance and energy storage purchase targets",
+      "relevance_vector": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "context_relevance": 0.7359,
+      "reciprocal_rank": 0.0,
+      "ndcg_at_5": 0.0,
+      "hit_at_5": 0.0
+    }
+  ]
+}

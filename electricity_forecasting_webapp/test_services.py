@@ -54,7 +54,7 @@ for m in ["Jan 2026", "Feb 2026", "Mar 2026"]:
     print(f"Gap Pred   : {gap_res['predicted_gap']:.2f} MU (Condition: {gap_res['condition']})")
     print(f"Risk Level : {risk_res['risk_level']} ({risk_res['badge']})")
     print(f"95% Gap CI : [{gap_res['gap_intervals']['pi_95']['lower']:.2f}, {gap_res['gap_intervals']['pi_95']['upper']:.2f}] MU")
-    print(f"Recommendations Generated: {len(rag_res['recommendations'])}")
+    print(f"Recommendations Generated: {bool(rag_res.get('recommendation_text'))}")
 
     # Verify numerical match with project benchmark
     exp = expected_results[m]
